@@ -1,5 +1,5 @@
-petagramUNAM/principal/res/ valores/styles 
+petagramUNAM/main/res/values/styles
 y 
-petagramUNAM/principal/res/ valores /colors
+petagramUNAM/main/res/values/colors
 
 esas son las direcciones para ver lo realizado
